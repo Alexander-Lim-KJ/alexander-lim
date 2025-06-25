@@ -1,18 +1,9 @@
 ---
-permalink: /
-title: "About"
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
-
-* Ph.D Candidate
-* School of Mathematics and Physics, University of Queensland, Australia
-* Email: alexander.lim@uq.edu.au
-
-Publications
-======
 
 * [Faithful-Newton Framework: Bridging Inner and Outer Solvers for Enhanced Optimization](https://arxiv.org/pdf/2506.13154)\
     **Alexander Lim** and Fred Roosta\
@@ -25,8 +16,3 @@ Publications
 * [Conjugate Direction Methods under Inconsistent Systems](https://arxiv.org/pdf/2401.11714)\
     **Alexander Lim**, Yang Liu and Fred Roosta\
     Technical Report, Preprint, 2024
-
-------
-
-![MY painting](/images/my_painting.jpeg)
-The Wildest Dream - Credit to my friend [piggy_paint](https://www.instagram.com/piggy_paints?igsh=MTQxZHJyempjMXRqYQ==)

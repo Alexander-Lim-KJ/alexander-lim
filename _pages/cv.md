@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* (2021 - 2025) **Ph.D** - University of Queensland
+  * Expected graduation: 2025
+  * Research areas: Numerical Analysis, Optimization and Linear Algebra; Scientific Computing; Machine Learning
+* (2018 - 2020) **B.Math** - University of Queensland
+* (2015 - 2016) **B.Art (Hons.)** - University of Tasmania
+  * Research areas: Philosophy of Physics and Mathematics
+* (2013 - 2015) **B.Art** in Philosophy - Univeristy of Tasmania
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* (2020 - Now)  **Teaching Assistant** - University of Queensland
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* (2019 - 2019) **Research Assistant** - University of Queensland
+  * Project: GAN with Shape Focus on MRI Images
+  * Supervisor: Dr Shakes Chandra
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* (2015 - 2016) **Research Assistant** - University of Sydney
+  * Project: Study on Lorentzian Pedagogy
+  * Supervisor: Prof Dean Rickles
 
 Publications
 ======
@@ -59,6 +49,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Development Activities
 ======
-* Currently signed in to 43 different slack teams
+* SIAM Gene Golub Summer School
+  * July 2024
+  * Campus of the Escuela Politécnica Nacional, Quito, Ecuador
+
+* AustMS Summer School
+  * Jan 2024
+  * The Australian National University, Australia
+
+* 
