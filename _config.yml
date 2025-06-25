@@ -13,9 +13,9 @@ title                    : "Alexander Lim"
 title_separator          : "-"
 name                     : &name "Alexander Lim"
 description              : &description "personal description"
-url                      : "https://alexander-lim-kj.github.io/alexander-lim"  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alexander-lim-kj/alexander-lim"
+url                      : "https://alexander-lim-kj.github.io"  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : "/alexander-lim" # the subpath of your site, e.g. "/blog"
+repository               : "Alexander-Lim-KJ/alexander-lim"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
