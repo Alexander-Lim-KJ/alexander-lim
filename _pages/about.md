@@ -8,13 +8,13 @@ redirect_from:
 
 ---
 
-* Ph.D Candidate
+* Ph.D Candidate (Supervisor: Prof. [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/index.html))
 * School of Mathematics and Physics, University of Queensland, Australia
 * Email: alexander.lim@uq.edu.au
 
 ------
 
-* Research areas: Numerical Optimization, Linear Algebra and Analysis; Machine Learning; Scientific Computing
+* Research interests: Numerical Optimization, Linear Algebra and Analysis; Machine Learning; Scientific Computing
 
 ------
 
@@ -36,4 +36,4 @@ Publications
 ------
 
 ![my_painting](images/my-painting.jpeg)
-The Wildest Dream - Credit to my friend [piggy_paint](https://www.instagram.com/piggy_paints?igsh=MTQxZHJyempjMXRqYQ==)
+My Wildest Dream - Credit to my friend [piggy_paint](https://www.instagram.com/piggy_paints?igsh=MTQxZHJyempjMXRqYQ==)
