@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **ARC Training Centre in OPTIMA Seminar**, 2025 ([OPTIMA 2025](https://optima.org.au/outreach-and-events/))
+    * Invited Speaker (Online) 
+
 * **Workshop on Optimization, Metric Bounds, Approximation and Transversality**, 2024 ([WoMBaT 2024](https://wombat.mocao.org/))
     * University of Sydney, New South Wales, Australia
 

@@ -8,6 +8,8 @@ author_profile: true
 ## Teaching Assistant
 
 * University of Queensland
+    * (Semester 2, 2025) MATH3204 Numerical Linear Algebra & Optimization
+    * (Semester 2, 2025) STAT2201 Analysis of Engineering & Scientific Data
     * (Semester 1, 2025) MATH1061 Discrete Mathematics 
     * (Semester 2, 2024) MATH1051 Calculus and Linear Algebra I 
     * (Semester 2, 2024) MATH3204 Numerical Linear Algebra & Optimization 

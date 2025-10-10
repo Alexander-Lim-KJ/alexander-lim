@@ -26,6 +26,9 @@ Education
 
 Work experience
 ======
+* (2025 - 2025) **Research Assistant** - University of Queensland
+  * School of Geography, Planning and Environmental Management
+
 * (2020 - Now)  **Teaching Assistant** - University of Queensland
 
 * (2019 - 2019) **Research Assistant** - University of Queensland
@@ -52,6 +55,9 @@ Publications
   
 Talks
 ======
+* **ARC Training Centre in OPTIMA Seminar**, 2025 ([OPTIMA 2025](https://optima.org.au/outreach-and-events/))
+    * Invited Speaker (Online) 
+
 * **Workshop on Optimization, Metric Bounds, Approximation and Transversality**, 2024 ([WoMBaT 2024](https://wombat.mocao.org/))
     * University of Sydney, New South Wales, Australia
 
@@ -75,6 +81,8 @@ Teaching
 --------
 
 * University of Queensland
+    * (Semester 2, 2025) MATH3204 Numerical Linear Algebra & Optimization
+    * (Semester 2, 2025) STAT2201 Analysis of Engineering & Scientific Data
     * (Semester 1, 2025) MATH1061 Discrete Mathematics 
     * (Semester 2, 2024) MATH1051 Calculus and Linear Algebra I 
     * (Semester 2, 2024) MATH3204 Numerical Linear Algebra & Optimization 
