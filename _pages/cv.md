@@ -30,15 +30,15 @@ Education
 ======
 * (2021 - 2025) **Ph.D** - University of Queensland
   * Thesis: *Faithful-Newton Framework: Bridging between Inner and Outer Solvers*
-    * Advisor: Prof. [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/index.html)
+    * Advisor: [Prof. Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/index.html)
 
 * (2018 - 2020) **B.Math** - University of Queensland
 
 * (2015 - 2016) **B.Art (Hons.)** - University of Tasmania
   * Thesis I: *On the Study of Space: in Physics and Metaphysics*
-    * Advisor: Dr. [Richard Corry](https://discover.utas.edu.au/Richard.Corry)
+    * Advisor: [Dr. Richard Corry](https://discover.utas.edu.au/Richard.Corry)
   * Thesis II: *Godel's Theorem and Logicism*
-    * Advisor: Prof. [James Chase](https://discover.utas.edu.au/James.Chase)
+    * Advisor: [Prof. James Chase](https://discover.utas.edu.au/James.Chase)
 
 * (2013 - 2015) **B.Art** in Philosophy - Univeristy of Tasmania
 

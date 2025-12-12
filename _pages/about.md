@@ -8,8 +8,7 @@ redirect_from:
 
 ---
 
-* Postdoctoral Researcher
-  * Advisor : Prof. Ching-pei Lee
+* **Postdoctoral Researcher** - Advisor : [Prof. Ching-pei Lee](https://leepei.github.io/)
 * 統計数理研究所, Institute of Statistical Mathematics, Tachikawa, Japan
 * Email: alexander.lim@uq.edu.au
 
