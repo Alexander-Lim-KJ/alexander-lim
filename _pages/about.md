@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /
 title: "About"
 author_profile: true
@@ -8,8 +8,9 @@ redirect_from:
 
 ---
 
-* Ph.D Candidate (Supervisor: Prof. [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/index.html))
-* School of Mathematics and Physics, University of Queensland, Australia
+* Postdoctoral Researcher
+  * Advisor : Prof. Ching-pei Lee
+* 統計数理研究所, Institute of Statistical Mathematics, Tachikawa, Japan
 * Email: alexander.lim@uq.edu.au
 
 ------

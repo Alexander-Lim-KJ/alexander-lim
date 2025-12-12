@@ -9,35 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
+Positions
+======
+* (2026 - Now) **Postdoctoral Researcher** - Institute of Statistical Mathematics (ISM)
+
+* (2025 - 2026) **Senior Research Assistant** - University of Queensland
+  * School of Geography, Planning and Environmental Management
+
+* (2020 - 2025)  **Teaching Assistant** - University of Queensland
+
+* (2019 - 2019) **Research Assistant** - University of Queensland
+  * Project: GAN with Shape Focus on MRI Images
+    * Advisor: Dr. Shakes Chandra
+
+* (2015 - 2016) **Research Assistant** - University of Sydney
+  * Project: Study on Lorentzian Pedagogy
+    * Advisor: Prof. Dean Rickles
+
 Education
 ======
 * (2021 - 2025) **Ph.D** - University of Queensland
-  * Expected graduation: 2025
   * Thesis: *Faithful-Newton Framework: Bridging between Inner and Outer Solvers*
+    * Advisor: Prof. [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/index.html)
 
 * (2018 - 2020) **B.Math** - University of Queensland
 
 * (2015 - 2016) **B.Art (Hons.)** - University of Tasmania
-  * Thesis I: *On the Study of Space: in Physics and Metaphysics* 
+  * Thesis I: *On the Study of Space: in Physics and Metaphysics*
+    * Advisor: Dr. [Richard Corry](https://discover.utas.edu.au/Richard.Corry)
   * Thesis II: *Godel's Theorem and Logicism*
-  * Research areas: Philosophy of Physics and Mathematics
+    * Advisor: Prof. [James Chase](https://discover.utas.edu.au/James.Chase)
 
 * (2013 - 2015) **B.Art** in Philosophy - Univeristy of Tasmania
-
-Work experience
-======
-* (2025 - 2025) **Research Assistant** - University of Queensland
-  * School of Geography, Planning and Environmental Management
-
-* (2020 - Now)  **Teaching Assistant** - University of Queensland
-
-* (2019 - 2019) **Research Assistant** - University of Queensland
-  * Project: GAN with Shape Focus on MRI Images
-  * Supervisor: Dr Shakes Chandra
-
-* (2015 - 2016) **Research Assistant** - University of Sydney
-  * Project: Study on Lorentzian Pedagogy
-  * Supervisor: Prof Dean Rickles
 
 Publications
 ======
