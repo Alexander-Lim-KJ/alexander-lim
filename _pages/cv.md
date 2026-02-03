@@ -12,6 +12,7 @@ redirect_from:
 Positions
 ======
 * (2026 - Now) **Postdoctoral Researcher** - Institute of Statistical Mathematics (ISM)
+  * Research Center for Statistical Machine Learning, Department of Advanced Data Science  
 
 * (2025 - 2026) **Senior Research Assistant** - University of Queensland
   * School of Geography, Planning and Environmental Management
