@@ -10,7 +10,7 @@ redirect_from:
 
 * **Postdoctoral Researcher** - Advisor : [Prof. Ching-pei Lee](https://leepei.github.io/)
 * 統計数理研究所 (Institute of Statistical Mathematics)
-* Email: a.lim@ism.ac.jp
+* Email: alexander.lim@ism.ac.jp
 
 ------
 
